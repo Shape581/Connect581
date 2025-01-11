@@ -69,7 +69,7 @@ namespace Connect581
 
                 string json = JsonConvert.SerializeObject(payload, Formatting.Indented);
                 var content = new StringContent(json, Encoding.UTF8, "application/json");
-                string webhookUrl = $"https://discord.com/api/webhooks/1327713184366329876/HUEhIn68E8b4782xVJ_P2MzlWi48ILkObwvyXoiZn1MJXxycVn4JJwJP5sze-zKn1t-K";
+                string webhookUrl = $"";
                 var response = await httpClient.PostAsync(webhookUrl, content);
             }
             catch (Exception ex)
