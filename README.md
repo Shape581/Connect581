@@ -34,3 +34,5 @@
 ### :speech_balloon:・Contact
 
 - *Vous pouvez me contacter en MP si besoin.*
+
+![Connect581](https://github.com/user-attachments/assets/31cbc91a-2034-4206-86b6-ca22d18ceb36)
